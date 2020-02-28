@@ -1,0 +1,8 @@
+digit=0
+zifuchuan=("465456fkdhskjhfds")
+digit=" "
+for i in zifuchuan:
+    if i.isdigit():
+        digit+=i
+print(digit)
+    
