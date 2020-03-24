@@ -1,0 +1,91 @@
+<style>
+    html{
+        background: #fffff5;
+    }
+    body{
+        background-color:white;
+        max-width: 640px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    h1{
+        text-align: center;
+        font-size: 35px;
+        color: white;
+    
+    }
+    .header{
+        background-color:#2dab79;
+        height: 60px;
+    }
+    .fengjing{
+        margin-left: 5px;
+
+    }
+    .touxiang{
+        border-radius: 50%;
+
+    }
+    .xingcheng{
+        position: absolute;
+        font-size: 18px;
+        font-weight: bolder;
+        color: white;
+        top: 5px;
+        left: 45px;
+        white-space: nowrap;
+        line-height: 40px;
+        /* border:  1px solid black ; */
+        
+    }
+    .bottom{
+        position: absolute;
+        top: 400px;
+        left: 460px;
+    }
+    .dog{
+        float: left;
+        border: 1px solid white;
+        border-radius: 50%;
+        width: 39px;
+        height: 39px;
+    }
+    .day{
+        position: absolute;
+         width: 41px;
+        height: 41px;
+        text-align: center;
+        line-height: 37px;
+        background-color: rgb(58, 189, 58);
+        color: white;
+        border-radius: 50%;
+        top:100px;
+        right:100px
+    em {
+        font-style:normoal;
+    
+    }
+    span {
+        margin-left: 30px;
+    }
+
+    .qui-aside{
+        height: 800px;
+        width: 200px;
+        border: 1px  solid black;
+        background-color: #2d3741;
+        
+
+    }
+    .nav-aside a{
+        font-size: 16px;
+        color: #ce1d5c;
+        text-decoration: none;
+    }
+    ul{
+        list-style: none;
+
+    }
+
+
+</style>
