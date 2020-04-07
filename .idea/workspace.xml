@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471d883b-5c9f-493a-87df-d51222541b1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/My-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tour/images/tour.html" beforeDir="false" afterPath="$PROJECT_DIR$/tour/images/tour.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/eg_cute.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/eg_mouse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/first.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/second.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fanyi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_youdao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_post_youdao.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/爬虫" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -93,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
