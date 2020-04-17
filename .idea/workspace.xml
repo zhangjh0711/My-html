@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471d883b-5c9f-493a-87df-d51222541b1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/111.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixYoudao/post_youdao.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixYoudao/post_youdao.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,9 +26,9 @@
   <component name="ProjectId" id="1ZNhRQbzFozY6qWqiJzBG9EzIeq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/111.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fixYoudao/post_youdao.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/111.py" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/fixYoudao/post_youdao.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
