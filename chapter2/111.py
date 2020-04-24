@@ -80,5 +80,10 @@ class Youdao():
 
 
 if __name__ == '__main__':
-    youdao = Youdao('我们')
-    print(youdao.fanyi())
+   while(True):
+       try:
+            i=input("please input :")
+       except:
+            pass
+       youdao=Youdao(i)
+       print("fanyi result :",youdao.fanyi())
