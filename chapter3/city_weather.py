@@ -26,7 +26,8 @@ class HeFeng():
 if __name__=='__main__':
     hefeng =HeFeng()
     codes=hefeng.get_city_code()
-    hefeng.get_weather(codes.__next__())
+    for i in range(10):
+        hefeng.get_weather(codes.__next__())
     # print(codes.__next__())
 
     # hefeng.geti_city_code()
