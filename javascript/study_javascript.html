@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学习javascript</title>
+</head>
+<body>
+    <script>
+        function sayHello(){
+        document.writeln("Hello world javascript");
+        alert("hello world javascript")
+
+        }
+        sayHello();
+        
+        var sayHelloObject=function(x){
+            document.writeln('<br>');
+            document.writeln("x=",x);
+
+        };
+        sayHelloObject(518);
+        
+        var study_var=function(){
+            var str1="变量名";
+            var num=1.5;
+            age = 21;
+            var cars=new Array("A","B","C");
+            document.writeln("<br>"+str1);
+            document.writeln("<br>"+num+"<br>"+age);
+
+        }
+        study_var();
+       
+       
+       var sum=function(start,end){
+            var s=0;
+            var i;
+            for(i=start;i<=end;i++){
+                s=s+i;
+            }
+        
+        document.writeln('<br>'+s);
+       }(1,100);
+       var sum_while=function(start,end){
+           var s=0;
+           var i=start;
+           while(i<=100){
+               s=s+i;
+               
+           }
+           i++;
+       
+       document.writeln("<br>"+s);
+       }(1,100);
+    </script>
+</body>
+</html>

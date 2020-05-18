@@ -6,13 +6,24 @@ class HefengDb():
         self.book_weather=self.client['weather']
         self.sheet_weather=self.book_weather['sheet_weather_3']
 
-    def save(self, param):
-        pass
+
+    def show_all(self):
+        all = self.sheet_weather.find()
+        for each in all:
+            print(each)
+
+    def find(self,condition):
+        return self.sheet_weather.find(condition)
 
 
-def save(self,data):
-    self.sheet_weather.insert_one(data)
-def 
+    def save(self,data):
+        self.sheet_weather.insert_one(data)
+
+    def delete(self):
+        self.sheet_weather.dete_many({})
+
+
+
 
 
 if __name__=="__main__":
@@ -23,3 +34,4 @@ if __name__=="__main__":
     # sheet_weather.insert_one({"name":"zjh","class":"19049"})
     hefengDb=HefengDb()
     hefengDb.save({"name":"zjh","class":"net19049"})
+    hefengDb.show_all()

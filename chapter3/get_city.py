@@ -32,6 +32,9 @@ class HeFeng():
         return cities[6:]
 
 
+
+
+
 if __name__ == '__main__':
     hefeng = HeFeng()
     codes=hefeng.get_city_code()
