@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471d883b-5c9f-493a-87df-d51222541b1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/test_city_weather_db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/city_weather_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/city_weather_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/get_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/get_city.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qianduan" beforeDir="false" afterPath="$PROJECT_DIR$/qianduan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qianduan/myhtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/qianduan/myhtml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qianduan/zjh.html" beforeDir="false" />
@@ -229,6 +225,11 @@
           <url>file://$PROJECT_DIR$/chapter3/city_weather.py</url>
           <line>25</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter3/test_city_weather_db.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
